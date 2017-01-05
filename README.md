@@ -1,7 +1,7 @@
 # php-api-tesla
 PHP Application Library for Tesla API
 
-1. Install all of these files in a separate directory on your LAMP server.
+1. Install all of these files in a secure directory on your LAMP server. Run scripts from command line only!
 
 2. Manually edit config.php and insert your credentials and desired settings.
 
