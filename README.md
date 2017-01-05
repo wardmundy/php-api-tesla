@@ -10,7 +10,7 @@ PHP Application Library for Tesla API
 token.php
 vehicle.php
 
-4. Then all of the rest of the scripts will work properly for 90 DAYS...
-For example, vehicle_state.php
+All of the rest of the scripts will then work properly for 90 DAYS, 
+e.g. vehicle_state.php
 
 NOTE: TOKENS last for 90 days! After 90 days, you must rerun token.php and vehicle.php
