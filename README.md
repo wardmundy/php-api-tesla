@@ -6,6 +6,7 @@ Manually edit config.php and insert your credentials and desired settings.
 Then run these two scripts in following order:
 
 token.php
+
 vehicle.php
 
 Then all of the rest of the scripts will work properly for 90 DAYS...
