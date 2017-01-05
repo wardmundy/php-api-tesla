@@ -12,5 +12,3 @@ Then all of the rest of the scripts will work properly for 90 DAYS...
 For example, vehicle_state.php
 
 TOKENS last for 90 days! After 90 days, you must rerun token.php and vehicle.php
-
-WARNING: Always run Incredible PBX behind a secure hardware-based firewall.  
