@@ -7,10 +7,7 @@ PHP Application Library for Tesla API
 
 3. Manually edit config.php and insert your credentials and desired settings.
 
-4. Before doing anything else, run these two scripts in the following order:
-
-./token.php
-./vehicle.php
+4. Before doing anything else, run these two scripts in the following order: ./token.php AND ./vehicle.php
 
 All of the rest of the scripts will then work properly for 90 DAYS, 
 e.g. ./vehicle_state.php
