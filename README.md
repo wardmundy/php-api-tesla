@@ -5,7 +5,7 @@ PHP Application Library for Tesla API
 
 2. Run scripts from command line only! Switch to php-api-tesla directory before proceeding.
 
-3. Manually edit config.php and insert your credentials and desired settings.
+3. Manually edit config.php and insert your credentials and set desired valet PIN and temperature settings.
 
 4. Before doing anything else, run these two scripts in the following order: ./token.php AND ./vehicle.php
 
