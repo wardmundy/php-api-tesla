@@ -1,11 +1,13 @@
 # php-api-tesla
 PHP Application Library for Tesla API
 
-1. Install all files in a secure, dedicated tesla directory on your LAMP server. Run scripts from command line only!
+1. Install all files in a secure, dedicated tesla directory on your LAMP server: git clone https://github.com/wardmundy/php-api-tesla.git
 
-2. Manually edit config.php and insert your credentials and desired settings.
+2. Run scripts from command line only!
 
-3. After switching to tesla directory, run these two scripts in the following order:
+3. Manually edit config.php and insert your credentials and desired settings.
+
+4. After switching to php-api-tesla directory, run these two scripts in the following order:
 
 ./token.php
 ./vehicle.php
