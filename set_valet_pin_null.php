@@ -31,3 +31,4 @@ $sep=chr(13).chr(10);
 $result=str_replace(',',$sep,$response);
 echo $result;
 echo "\r\n\n";
+?>
