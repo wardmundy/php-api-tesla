@@ -1,5 +1,43 @@
 #!/usr/bin/php -q
 <?php
+error_reporting(0);
+
+$timenow = time();
+
+$tokendata = file_get_contents("token");
+$created = $tokendata;
+$pos = strpos($created,'created_at":');
+$created = substr($created,$pos+12);
+$pos = strpos($created,'}');
+$created=substr($created,0,$pos);
+
+$expires = $tokendata;
+$pos = strpos($expires,'expires_in":');
+$expires = substr($expires,$pos+12);
+$pos = strpos($expires,',');
+$expirelen=substr($expires,0,$pos) - 300;
+$expires=$expirelen + $created;
+
+if ( ! file_exists("token") ):
+ echo "You firt must generate a new token.";
+ echo "\r\n";
+ echo "Run token.php and vehicle.php now.";
+ echo "\r\n";
+ echo "Then try again.";
+ echo "\r\n";
+ exit;
+elseif ( $timenow > $expires ):
+ echo "Tokens are valid 3 months. Yours expired.";
+ echo "\r\n";
+ echo "You need to generate a new token.";
+ echo "\r\n";
+ echo "Run token.php and vehicle.php now.";
+ echo "\r\n";
+ echo "Then try again.";
+ echo "\r\n";
+ exit;
+endif;
+
 $ch = curl_init();
 
 $token = file_get_contents("token");
