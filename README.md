@@ -14,6 +14,8 @@
 All of the rest of the scripts will then work properly for 90 DAYS, 
 e.g. ./vehicle_state.php
 
+## Special Notes
+
 NOTE: TOKENS last for 90 days! After 90 days, you must rerun token.php and vehicle.php. You'll be reminded.
 
 RESOLVING FAILURES: If you get a failure noting "could_not_wake_buses", simply rerun the script a second time.
