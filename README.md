@@ -1,5 +1,7 @@
 # php-api-tesla
-PHP Application Library for Tesla API
+# PHP Application Library for Tesla API
+
+## Getting Started
 
 1. Install all files in a secure directory on your LAMP server: git clone https://github.com/wardmundy/php-api-tesla.git
 
