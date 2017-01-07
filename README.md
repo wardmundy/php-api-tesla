@@ -1,7 +1,7 @@
 # php-api-tesla
 # PHP Application Library for Tesla API
 Copyright (c) 2017, Ward Mundy & Associates LLC
-License: GPL3
+with GPL3 License
 
 ## Getting Started
 
