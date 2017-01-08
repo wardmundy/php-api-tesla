@@ -1,6 +1,8 @@
 #!/usr/bin/php -q
 <?php
 
+// Copyright (C) 2017, Ward Mundy & Associates LLC with GPL3 license
+
 include_once("config.php");
 
 // Get cURL resource
@@ -30,6 +32,4 @@ curl_close($curl);
 file_put_contents("token",$resp);
 echo "Done. Tokens written to file: token";
 echo $resp;
-echo "";
-echo "";
 ?>
