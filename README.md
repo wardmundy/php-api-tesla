@@ -21,3 +21,5 @@ e.g. ./vehicle_state.php
 NOTE: TOKENS last for 90 days! After 90 days, you must rerun token.php and vehicle.php. You'll be reminded.
 
 RESOLVING FAILURES: If you get a failure noting "could_not_wake_buses", simply rerun the script a second time.
+
+Special thanks to <a href="https://teslamotorsclub.com/tmc/members/hanklloydright.20679/">Hank Lloyd Right of the Tesla Motors Forum</a> for numerous PHP suggestions.
