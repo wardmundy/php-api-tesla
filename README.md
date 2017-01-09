@@ -20,7 +20,7 @@ e.g. ./vehicle_state.php
 
 NOTE: TOKENS last for 90 days! After 90 days, you must rerun token.php and vehicle.php. You'll be reminded.
 
-FUTURE-PROOFING: A web app is coming soon. Please be sure your web server has access to the install directory chosen above.
+FUTURE-PROOFING: A web app is coming soon. Please be sure your web server has access to the install directory.
 
 RESOLVING FAILURES: If you get a failure noting "could_not_wake_buses", simply rerun the script a second time.
 
