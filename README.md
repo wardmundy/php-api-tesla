@@ -7,7 +7,7 @@ with GPL3 License
 
 1. Install all files in a secure directory on your LAMP server: git clone https://github.com/wardmundy/php-api-tesla.git
 
-2. Run scripts from command line only! Switch to php-api-tesla directory before proceeding.
+2. Run scripts from command line only! Switch to php-api-tesla directory before proceeding and chmod +x *.php.
 
 3. Edit config.php: set install directory, Tesla credentials and desired valet PIN and temp settings for car.
 
