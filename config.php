@@ -16,6 +16,9 @@ $tesla_password="yourpassword";
 // specify the PIN to be used for Valet Mode with your vehicle
 $valet_pin=1234;
 
+// specify the code for web access to Tesla Management Portal
+$web_access=123456;
+
 // specify the default temperature settings for your vehicle in Centigrade degrees (22C = 71.6F)
 $driver_temp=22.0;
 $passenger_temp=22.0;
