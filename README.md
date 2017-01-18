@@ -9,7 +9,7 @@ with GPL3 License
 
 2. Run scripts from command line only! Switch to php-api-tesla directory before proceeding and chmod +x *.php.
 
-3. Edit config.php: set install directory, Tesla credentials and desired valet PIN and temp settings for car.
+3. Edit config.php: set install directory, Tesla credentials and desired valet & web PINs and temp settings for car.
 
 4. Before doing anything else, run these two scripts in the following order: ./token.php AND ./vehicle.php
 
