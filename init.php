@@ -2,7 +2,7 @@
 
 //error_reporting(0);
 
-// Copyright (C) 2017, Ward Mundy & Associates LLC with GPL3 license
+// Copyright (C) 2017, Ward Mundy & Associates LLC with MIT license
 
 //global variables
 $TESLA_API_URL = "https://owner-api.teslamotors.com/";
