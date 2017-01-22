@@ -1,6 +1,6 @@
 <?php
 
-// Copyright (C) 2017, Ward Mundy & Associates LLC with GPL3 license
+// Copyright (C) 2017, Ward Mundy & Associates LLC with MIT license
 
 // set your install directory for this software below
 $tesla_directory = "/root/php-api-tesla";
