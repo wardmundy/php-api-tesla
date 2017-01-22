@@ -1,7 +1,7 @@
 #!/usr/bin/php -q
 <?php
 
-// Copyright (C) 2017, Ward Mundy & Associates LLC with GPL3 license
+// Copyright (C) 2017, Ward Mundy & Associates LLC with MIT license
 
 include_once("config.php");
 
