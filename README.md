@@ -3,6 +3,8 @@
 Copyright (c) 2017, Ward Mundy & Associates LLC
 with MIT License
 
+![tesla](/img/tesla.jpg?raw=true "Photo credit: Tesla.com")
+
 ## Getting Started
 
 1. Install all files in a secure directory on your LAMP server: git clone https://github.com/wardmundy/php-api-tesla.git
