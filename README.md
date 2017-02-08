@@ -3,7 +3,7 @@
 Copyright (c) 2017, Ward Mundy & Associates LLC
 with MIT License
 
-![tesla](/img/tesla.jpg?raw=true "Photo credit: Tesla.com")
+![tesla](/img/tesla.png?raw=true "Photo credit: Ward Mundy & Associates, LLC")
 
 ## Getting Started
 
